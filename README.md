@@ -1,4 +1,7 @@
 # Make_a_neural_network
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/Make_a_neural_network.svg)](https://www.guardrails.io)
+
 This is the code for the "Make a Neural Network" - Intro to Deep Learning #2 by Siraj Raval on Youtube
 
 ##Overview
